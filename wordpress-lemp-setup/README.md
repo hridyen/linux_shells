@@ -1,25 +1,29 @@
-# WordPress Deployment Automation (LEMP & LAMP)
+# Shell Projects Collection
 
-This repository contains automated shell scripts to deploy WordPress using:
+This repository contains multiple Linux shell scripting projects,
+including automation, mini-projects, and a complete WordPress deployment.
 
-## LEMP Stack (Nginx)
-- lemp/install_wordpress_lemp.sh
-- lemp/start_wordpress.sh
-- lemp/restart_wordpress.sh
+## Projects
 
-## LAMP Stack (Apache)
-- lamp/install_wordpress_lamp.sh
-- lamp/start_wordpress_lamp.sh
-- lamp/restart_wordpress_lamp.sh
+### 1. WordPress Deployment
+- LEMP (Nginx)
+- LAMP (Apache)
+- Full automation scripts
+- Debugging & Git workflow
 
-## Usage
+Location:
 
-Make scripts executable:
-chmod +x **/*.sh
+wordpress/
 
-Run LEMP:
-./lemp/install_wordpress_lemp.sh
 
-Run LAMP:
-./lamp/install_wordpress_lamp.sh
+### 2. Shell Basics
+Looping, conditions, text processing:
 
+basics/
+
+
+### 3. Mini Projects
+Small real-world shell scripts:
+
+
+miniprojects/
